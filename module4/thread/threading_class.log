@@ -1,0 +1,30 @@
+2022-11-24 13:27:24,665 - Mike - DEBUG - Calling doubler
+2022-11-24 13:27:24,665 - Mike - DEBUG - doubler function executing
+2022-11-24 13:27:24,665 - Mike - DEBUG - doubler function ended with: 0
+2022-11-24 13:27:24,665 - George - DEBUG - Calling doubler
+2022-11-24 13:27:24,666 - Wanda - DEBUG - Calling doubler
+2022-11-24 13:27:24,666 - George - DEBUG - doubler function executing
+2022-11-24 13:27:24,666 - Dingbat - DEBUG - Calling doubler
+2022-11-24 13:27:24,666 - Wanda - DEBUG - doubler function executing
+2022-11-24 13:27:24,666 - Nina - DEBUG - Calling doubler
+2022-11-24 13:27:24,666 - George - DEBUG - doubler function ended with: 2
+2022-11-24 13:27:24,666 - Dingbat - DEBUG - doubler function executing
+2022-11-24 13:27:24,666 - Wanda - DEBUG - doubler function ended with: 4
+2022-11-24 13:27:24,666 - Nina - DEBUG - doubler function executing
+2022-11-24 13:27:24,666 - Dingbat - DEBUG - doubler function ended with: 6
+2022-11-24 13:27:24,666 - Nina - DEBUG - doubler function ended with: 8
+2022-11-24 13:27:24,977 - Mike - DEBUG - Calling doubler
+2022-11-24 13:27:24,977 - Mike - DEBUG - doubler function executing
+2022-11-24 13:27:24,977 - George - DEBUG - Calling doubler
+2022-11-24 13:27:24,977 - Mike - DEBUG - doubler function ended with: 0
+2022-11-24 13:27:24,977 - George - DEBUG - doubler function executing
+2022-11-24 13:27:24,977 - Wanda - DEBUG - Calling doubler
+2022-11-24 13:27:24,978 - Dingbat - DEBUG - Calling doubler
+2022-11-24 13:27:24,978 - George - DEBUG - doubler function ended with: 2
+2022-11-24 13:27:24,978 - Nina - DEBUG - Calling doubler
+2022-11-24 13:27:24,978 - Wanda - DEBUG - doubler function executing
+2022-11-24 13:27:24,978 - Dingbat - DEBUG - doubler function executing
+2022-11-24 13:27:24,978 - Nina - DEBUG - doubler function executing
+2022-11-24 13:27:24,978 - Wanda - DEBUG - doubler function ended with: 4
+2022-11-24 13:27:24,978 - Dingbat - DEBUG - doubler function ended with: 6
+2022-11-24 13:27:24,979 - Nina - DEBUG - doubler function ended with: 8
