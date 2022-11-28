@@ -1,0 +1,30 @@
+2022-11-24 13:20:25,700 - Mike - DEBUG - Doubler function executing
+2022-11-24 13:20:25,700 - Mike - DEBUG - Doubler function ended with: 0
+2022-11-24 13:20:25,700 - George - DEBUG - Doubler function executing
+2022-11-24 13:20:25,701 - George - DEBUG - Doubler function ended with: 2
+2022-11-24 13:20:25,702 - Wanda - DEBUG - Doubler function executing
+2022-11-24 13:20:25,702 - Dingbat - DEBUG - Doubler function executing
+2022-11-24 13:20:25,702 - Wanda - DEBUG - Doubler function ended with: 4
+2022-11-24 13:20:25,702 - Nina - DEBUG - Doubler function executing
+2022-11-24 13:20:25,702 - Dingbat - DEBUG - Doubler function ended with: 6
+2022-11-24 13:20:25,702 - Nina - DEBUG - Doubler function ended with: 8
+2022-11-24 13:20:33,541 - Mike - DEBUG - Doubler function executing
+2022-11-24 13:20:33,541 - Mike - DEBUG - Doubler function ended with: 0
+2022-11-24 13:20:33,541 - George - DEBUG - Doubler function executing
+2022-11-24 13:20:33,542 - Wanda - DEBUG - Doubler function executing
+2022-11-24 13:20:33,542 - George - DEBUG - Doubler function ended with: 2
+2022-11-24 13:20:33,542 - Dingbat - DEBUG - Doubler function executing
+2022-11-24 13:20:33,542 - Wanda - DEBUG - Doubler function ended with: 4
+2022-11-24 13:20:33,542 - Nina - DEBUG - Doubler function executing
+2022-11-24 13:20:33,543 - Dingbat - DEBUG - Doubler function ended with: 6
+2022-11-24 13:20:33,543 - Nina - DEBUG - Doubler function ended with: 8
+2022-11-24 13:20:42,543 - Mike - DEBUG - Doubler function executing
+2022-11-24 13:20:42,543 - Mike - DEBUG - Doubler function ended with: 0
+2022-11-24 13:20:42,543 - George - DEBUG - Doubler function executing
+2022-11-24 13:20:42,544 - George - DEBUG - Doubler function ended with: 2
+2022-11-24 13:20:42,544 - Wanda - DEBUG - Doubler function executing
+2022-11-24 13:20:42,544 - Wanda - DEBUG - Doubler function ended with: 4
+2022-11-24 13:20:42,544 - Dingbat - DEBUG - Doubler function executing
+2022-11-24 13:20:42,544 - Dingbat - DEBUG - Doubler function ended with: 6
+2022-11-24 13:20:42,544 - Nina - DEBUG - Doubler function executing
+2022-11-24 13:20:42,544 - Nina - DEBUG - Doubler function ended with: 8
